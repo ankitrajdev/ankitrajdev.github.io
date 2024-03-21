@@ -145,3 +145,26 @@ VanillaTilt.init(document.querySelector(".main-content-image"), {
   "max-glare": 0.5,
 });
 
+        document.addEventListener("contextmenu", function(event) {
+            event.preventDefault();
+        });
+
+        document.addEventListener("selectstart", function(event) {
+            event.preventDefault();
+        });
+
+        document.addEventListener("dragstart", function(event) {
+            if (event.target.tagName.toLowerCase() === "img") {
+                event.preventDefault();
+            }
+        });
+
+        document.addEventListener("keydown", function(event) {
+            if (event.ctrlKey || event.metaKey) {
+                event.preventDefault();
+            }
+        });
+
+        if (top !== self) {
+            top.location.replace(self.location.href);
+        }
