@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<!--Head-->
+<head>
+    <!--Meta Tags-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Welcome to Ankit Raj portfolio website.">
+    <meta name="author" content="Ankit Raj">
+    <meta name="keywords"
+        content="website, Portfolio, github, html, css, webdev, googlefont, ankit, Ankit raj, freehost, html project">
+    <meta name="google-site-verification" content="-_vGTZ4HnVXhPBb64aXsyhaFefMCewkbBGKhiUa_xZg">
+    <!--Meta Tags End-->
+    <!--Title-->
+    <title>Ankit Raj | Portfolio Website</title>
+    <!--Title End-->
+    <!--CSS-->
+    <!--Main CSS-->
+    <link rel="stylesheet" href="assets/CSS/style.css">
+    <!--Google Font CSS-->
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200">
+    <!--Responsive CSS-->
+    <link rel="stylesheet" href="assets/CSS/responsive.css">
+    <!--CSS End-->
+    <!--Favicon-->
+    <link rel="shortcut icon" href="assets/IMG/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="assets/IMG/favicon.png">
+     <!--Favicon End-->
+</head>
+<!--Head End-->
+
+<body>
+    <!--Header Section-->
+    <header>
+
+        <nav class="nav">
+            <div class="nav-container">
+                <div class="nav-brand">
+                    <img src="assets/IMG/main-logo.png" alt="logo">
+                    <h2>Ankit <span>Raj</span></h2>
+                    <button id="darkModeToggle" class="dark-togler"><i class="fa-solid fa-moon"></i></button>
+                </div>
+                <div class="nav_link" id="#nav_link">
+                    <a href="#"><span>Home</span></a>
+                    <a href="#about">About</a>
+                    <a href="#skills">Skills</a>
+                    <a href="#work">Works</a>
+                    <a href="#contact">Contact</a>
+                    <div class="nav_toggler_cancel">
+                        <span class="material-symbols-outlined" onclick="nav_expand();">close</span>
+                    </div>
+                </div>
+                <div class="nav_toggler">
+                    <span class="material-symbols-outlined" onclick="nav_expand();">menu</span>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <!--Header Section End-->
+    <!--Main Section-->
+    <main>
+        <!--Home Section-->
+        <div class="main-content home">
+            <div id="particles-js"></div>
+            <div class="main-content-text">
+                <div class="main-content-text-text">
+                    <h1>
+                        <div class="main-content-text-text-text">Hi,</div>
+                        <div class="main-content-text-text-text">I'am <span>Ankit</span></div>
+                        <div class="main-content-text-text-text running-text">
+                            <span class="role"> </span>
+                        </div>
+                    </h1>
+                    <button class="btn main-btn" onclick="contact();">Contact</button>
+                </div>
+                <div class="main-content-text-social">
+                    <a href="https://www.instagram.com/ankit_gamer69/"><i class="fa fa-instagram"
+                            aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                    <a href="https://github.com/ankitrajdev"><i class="fa fa-github" aria-hidden="true"></i></a>
+                </div>
+            </div>
+            <div class="main-content-image">
+                <img src="assets/IMG/author.jpg" alt="main-logo">
+
+            </div>
+        </div>
+        <!--Home Section End-->
+        <!--About Section-->
+        <div class="main-about about" id="about">
+            <div class="main-contact-heading">
+                <h2>ABOUT <span>ME</span></h2>
+            </div>
+            <div class="main-about-inner">
+                <div class="main-about-image"><img src="assets/IMG/author.jpg" alt="author"></div>
+                <div class="main-about-text">
+                    <p>I am Ankit Raj. A frontend web developer, graphics designer and videoeditor. I am currently
+                        learning frontend (HTML, CSS and JS). I'm currently studing in class 10. I'm from Aurangabad,
+                        Bihar, India.</p>
+                    <div class="main-about-text-inner">
+                        <p><span>Age :</span> 14 Years</p>
+                        <p><span>School :</span> Paramount Public School</p>
+                        <p><span>Email :</span> ankit_gamer69@hotmail.com</p>
+                        <p><span>Place :</span> Jhumai, Bihar, India.</p>
+                    </div>
+                    <button class="btn">Resume</button>
+                </div>
+            </div>
+
+        </div>
+        <!--About Section End-->
+        <!--Skill Section-->
+        <div class="main-skill skills" id="skills">
+
+            <div class="main-Section-heading">
+                <h2>SKILLS</h2>
+            </div>
+            <div class="main-skill-inner">
+                <div class="main-skill-skill">
+                    <div class="main-skill-skill-div">
+                        <div class="main-skill-skill-div-head">
+                            <h2><i class="fa fa-html5" aria-hidden="true"></i>HTML</h2>
+                            <p>85%</p>
+                        </div>
+                        <div class="main-skill-skill-div-percent">
+                            <div class="main-skill-skill-div-percent-html"></div>
+                        </div>
+                    </div>
+                    <div class="main-skill-skill-div">
+                        <div class="main-skill-skill-div-head">
+                            <h2><i class="fa-solid fa-wind"></i>TAILWIND</h2>
+                            <p>80%</p>
+                        </div>
+                        <div class="main-skill-skill-div-percent">
+                            <div class="main-skill-skill-div-percent-tailwind"></div>
+                        </div>
+                    </div>
+                    <div class="main-skill-skill-div">
+                        <div class="main-skill-skill-div-head">
+                            <h2><i class="fa fa-css3" aria-hidden="true"></i>CSS</h2>
+                            <p>75%</p>
+                        </div>
+                        <div class="main-skill-skill-div-percent">
+                            <div class="main-skill-skill-div-percent-css"></div>
+                        </div>
+                    </div>
+                    <div class="main-skill-skill-div">
+                        <div class="main-skill-skill-div-head">
+                            <h2><i class="fa-brands fa-bootstrap"></i>BOOTSTRAP</h2>
+                            <p>50%</p>
+                        </div>
+                        <div class="main-skill-skill-div-percent">
+                            <div class="main-skill-skill-div-percent-bootstrap"></div>
+                        </div>
+                    </div>
+                    <div class="main-skill-skill-div">
+                        <div class="main-skill-skill-div-head">
+                            <h2><i class="fab fa-js"></i>JS</h2>
+                            <p>20%</p>
+                        </div>
+                        <div class="main-skill-skill-div-percent">
+                            <div class="main-skill-skill-div-percent-js"></div>
+                        </div>
+                    </div>
+                    <div class="main-skill-skill-div">
+                        <div class="main-skill-skill-div-head">
+                            <h2><i class="fa fa-paint-brush" aria-hidden="true"></i>UI/UX</h2>
+                            <p>5%</p>
+                        </div>
+                        <div class="main-skill-skill-div-percent">
+                            <div class="main-skill-skill-div-percent-uiux"></div>
+                        </div>
+                    </div>
+
+
+                </div>
+                <div class="skill-xyz">
+                    <div class="skilll-xyz-inner">
+                        <svg x="0px" y="0px" viewBox="0 0 200 200">
+                            <circle class="skill-circle" cx="100" cy="100" r="80"></circle>
+                            <circle class="skill-circle-inner skill-xyz-ve" cx="100" cy="100" r="80"></circle>
+                        </svg>
+                        <div class="skill-xyz-percent">90%</div>
+                        <div class="skill-xyz-text ">Video Editing</div>
+                    </div>
+                    <div class="skilll-xyz-inner">
+                        <svg x="0px" y="0px" viewBox="0 0 200 200">
+                            <circle class="skill-circle" cx="100" cy="100" r="80"></circle>
+                            <circle class="skill-circle-inner skill-xyz-wd" cx="100" cy="100" r="80"></circle>
+                        </svg>
+                        <div class="skill-xyz-percent">80%</div>
+                        <div class="skill-xyz-text">Web Dev</div>
+                    </div>
+                    <div class="skilll-xyz-inner">
+                        <svg x="0px" y="0px" viewBox="0 0 200 200">
+                            <circle class="skill-circle" cx="100" cy="100" r="80"></circle>
+                            <circle class="skill-circle-inner skill-xyz-ui" cx="100" cy="100" r="80"></circle>
+                        </svg>
+                        <div class="skill-xyz-percent">20%</div>
+                        <div class="skill-xyz-text">UI/UX</div>
+                    </div>
+                    <div class="skilll-xyz-inner">
+                        <svg x="0px" y="0px" viewBox="0 0 200 200">
+                            <circle class="skill-circle" cx="100" cy="100" r="80"></circle>
+                            <circle class="skill-circle-inner skill-xyz-game" cx="100" cy="100" r="80"></circle>
+                        </svg>
+                        <div class="skill-xyz-percent">50%</div>
+                        <div class="skill-xyz-text">Gaming</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--Skill Section End-->
+        <!--Work Section-->
+        <div class="main-work" id="work">
+            <div class="main-Section-heading">
+                <h2>WORK</h2>
+            </div>
+            <div class="main-work-div">
+                <div class="service-container">
+                    <div class="services-box">
+                        <i class="fa-solid fa-palette"></i>
+                        <h3>Web Design</h3>
+                        <p>I'm web designer. I design and make many of website and as well as i am graphics designer.
+                            Click on button to see design.
+                        </p>
+                        <a href=""><button class="btn">Learn More</button></a>
+                    </div>
+
+                    <div class="services-box">
+                        <i class="fa-solid fa-video"></i>
+                        <h3>Video Editing</h3>
+                        <p>I'm youtuber and I edit my video myself. I approx edit 50+ video and uploaded on my youtube
+                            channel (@ankit_gamer69).
+                        </p>
+                        <a href=""><button class="btn">Learn More</button></a>
+                    </div>
+
+                    <div class="services-box">
+                        <i class="fa-solid fa-code"></i>
+                        <h3>Frontend Development</h3>
+                        <p>I'am frontend developer and devlop many of website using HTML, CSS and JS. I started it 1
+                            year before in 2023.
+                        </p>
+                        <a href=""><button class="btn">Learn More</button></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--Work Section End-->
+        <!--Project Section-->
+        <div class="main-project">
+            <div class="main-Section-heading">
+                <h2>PROJECTS</h2>
+            </div>
+            <div class="main-project-inner">
+                <div class="main-project-div">
+
+                    <div class="main-project-div-inner">
+                        <div class="main-project-div-inner-img">
+                            <img src="d6da980c66a6d3e7c8aae4d4a643bc09.jpg" alt="">
+                        </div>
+                        <div class="main-project-div-inner-data">
+                            <div class="main-project-div-inner-data-h2">
+                                <h2>Freefire</h2>
+                            </div>
+                            <div class="main-project-div-inner-data-caption">
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            </div>
+                            <div class="main-project-div-inner-data-btn">
+                                <a href="/"><button>Know more</button></a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="main-project-div-inner">
+                        <div class="main-project-div-inner-img">
+                            <img src="d6da980c66a6d3e7c8aae4d4a643bc09.jpg" alt="">
+                        </div>
+                        <div class="main-project-div-inner-data">
+                            <div class="main-project-div-inner-data-h2">
+                                <h2>Freefire</h2>
+                            </div>
+                            <div class="main-project-div-inner-data-caption">
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            </div>
+                            <div class="main-project-div-inner-data-btn">
+                                <a href="/"><button>Know more</button></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="main-project-div-inner">
+                        <div class="main-project-div-inner-img">
+                            <img src="d6da980c66a6d3e7c8aae4d4a643bc09.jpg" alt="">
+                        </div>
+                        <div class="main-project-div-inner-data">
+                            <div class="main-project-div-inner-data-h2">
+                                <h2>FLIPKARt</h2>
+                            </div>
+                            <div class="main-project-div-inner-data-caption">
+                                <p>Online Shooping site for PC and Mobile..</p>
+                            </div>
+                            <div class="main-project-div-inner-data-btn">
+                                <a href="Flipkart"><button>Know more</button></a>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+        <!--Project Section End-->
+        <!--Contact Section-->
+        <div class="main-contact contact" id="contact">
+            <div class="main-contact-heading">
+                <h2>CONTACT <span>US</span></h2>
+            </div>
+
+            <form class="main-contact-form" action="#">
+                <div class="input-div">
+                    <div class="input-div-icon"> <i class="fa-solid fa-user"></i></div><input type="text"
+                        placeholder="NAME" class="input-name" id="input-name" required autocomplete="name">
+                </div>
+
+                <div class="input-div">
+                    <div class="input-div-icon"> <i class="fa-solid fa-envelope"></i></div> <input type="email"
+                        placeholder="EMAIL" inputmode="email" class="input-email" id="input-email" required
+                        autocomplete="email">
+                </div>
+
+                <div class="input-div">
+                    <div class="input-div-icon"> <i class="fa-solid fa-phone"></i></div><input type="tel"
+                        placeholder="PHONE" inputmode="tel" class="input-phone" id="input-phone" required
+                        autocomplete="tel">
+                </div>
+
+                <div class="input-div">
+                    <div class="input-div-icon"> <i class="fa-solid fa-filter"></i></div> <input type="text"
+                        placeholder="SUBJEXT" class="input-subject" id="input-subject" required>
+                </div>
+                <div class="input-div">
+                    <div class="input-div-icon"> <i class="fa-solid fa-message"></i></div><textarea name="input-message"
+                        id="input-message" rows="7" placeholder="MESSAGE" required></textarea>
+                </div>
+
+                <button type="submit" class="btn">SUBMIT <i class="fa-solid fa-paper-plane"></i></button>
+            </form>
+        </div>
+        <!--Contact Section End-->
+    </main>
+    <!--Main Section End-->
+    <!--Footer Section-->
+    <footer class="footer">
+        <div class="footer_upper">
+            <div class="footer_upper_div">
+                <h3>Projects</h3>
+                <a href="">JS</a>
+                <a href="">CSS</a>
+                <a href="">UI/UX</a>
+                <a href="">HTML</a>
+            </div>
+            <div class="footer_upper_div">
+                <h3>Us</h3>
+                <a href="about">About Us</a>
+                <a href="contact">Contact</a>
+                <a href="account">My Account</a>
+            </div>
+            <div class="footer_upper_div">
+                <h3>Policies</h3>
+                <a href="">Terms</a>
+                <a href="">Privacy Policy</a>
+            </div>
+            <div class="footer_upper_div">
+                <h3>Get In Touch</h3>
+                <a class="flex align-centre gap5" href="tel:9110155364"><span><i class="fa fa-phone-square"
+                            aria-hidden="true"></i></span>9110 155 364</a>
+                <a class="flex align-centre gap5" href="mailto:ankit_gamer69@hotmail.com">
+                    <span><i class="fa fa-envelope" aria-hidden="true"></i></span>ankit_gamer69@hotmail.com</a>
+                <div class="footer_upper_div_4_social">
+                    <a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                    <a href="https://github.com/ankitrajdev"><i class="fa fa-github" aria-hidden="true"></i></a>
+                    <a href="https://www.instagram.com/ankit_gamer69/"><i class="fa fa-instagram"
+                            aria-hidden="true"></i></a>
+                    <a href="https://wa.me/9110155364"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
+                    <a href="https://youtube.com/@ankit_gamer69"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+                    <a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                    <a href=""><i class="fa fa-vk" aria-hidden="true"></i></a>
+                    <a href=""><i class="fa fa-snapchat" aria-hidden="true"></i></a>
+                    <a href=""><i class="fa fa-telegram" aria-hidden="true"></i></a>
+                </div>
+            </div>
+        </div>
+        <hr>
+        <div class="footer_lower">
+            <div class="main-content-text-social footer-social-lower">
+                <a href="https://www.instagram.com/ankit_gamer69/"><i class="fa fa-instagram"
+                        aria-hidden="true"></i></a>
+                <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                <a href="https://github.com/ankitrajdev"><i class="fa fa-github" aria-hidden="true"></i></a>
+            </div>
+            <div class="footer_lower_text">
+                <p>&copy;<a href="#">Ankit Raj</a> | All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+    <!--Footer Section End-->
+    <!--Java Scripts-->
+    <!--Icons Scripts-->
+    <script src="https://kit.fontawesome.com/cdca6417c3.js" crossorigin="anonymous"></script>
+    <!--Particle Scripts-->
+    <script src="assets/JS/particles.js"></script>
+    <script src="assets/JS/app.js"></script>
+    <!--SMTP Scripts-->
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
+    <!--Popup Message Scripts-->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <!--Scroll Reveal Scripts-->
+    <script src="https://unpkg.com/scrollreveal@4.0.9/dist/scrollreveal.min.js"></script>
+    <!--Typing Scripts-->
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+    <!--Tilt Scripts-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-tilt/1.7.0/vanilla-tilt.min.js"></script>
+    <!--Main Java Scripts-->
+    <script src="assets/JS/script.js"></script>
+    <!--Java Scripts End-->
+</body>
+</html>
