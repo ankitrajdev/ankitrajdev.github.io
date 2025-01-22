@@ -1,0 +1,536 @@
+[
+    {
+        "title": "Life Process | L-01",
+        "poster_url": "https:\/\/cf-images.ap-southeast-1.prod.boltdns.net\/v1\/jit\/6415636611001\/39db751d-5072-4283-b5f4-7f63d51eb753\/main\/160x90\/5s\/match\/image.jpg",
+        "added_on": "02-Dec-2024 21:15",
+        "link": "https:\/\/www.youtube.com\/watch?v=3nnzRQEzIPM",
+        "type": "Video"
+    },
+    {
+        "title": "Life Process | L-02",
+        "poster_url": "https:\/\/cf-images.ap-southeast-1.prod.boltdns.net\/v1\/jit\/6415636611001\/39db751d-5072-4283-b5f4-7f63d51eb753\/main\/160x90\/5s\/match\/image.jpg",
+        "added_on": "04-Dec-2024 21:15",
+        "type": "Video",
+        "link": "https:\/\/d3cx6qbbd4cbso.cloudfront.net\/file_library\/videos\/vod_non_drm_ios\/4251456\/1733755749_6573603194055109\/13027201.m3u8"
+    },
+    {
+        "title": "Chemical reactions and Equations | L-02",
+        "poster_url": "https:\/\/i.imghippo.com\/files\/mmrb3718aDg.png",
+        "added_on": "05-Dec-2024 21:00",
+        "type": "Video",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4253634\/173393608025118296383\/173393608025118296383_8296383.m3u8"
+    },
+    {
+        "title": "Chemical reactions and Equations | L-01",
+        "poster_url": "https:\/\/i.imghippo.com\/files\/cbQD7065UqM.png",
+        "added_on": "30-Dec-2024 08:30 PM",
+        "type": "Video",
+        "link": "https:\/\/d3cx6qbbd4cbso.cloudfront.net\/file_library\/videos\/vod_non_drm_ios\/4253595\/1733950024_2453322930253138\/sunny\/1733924797386_831451836467571200_video_VOD.m3u8"
+    },
+    {
+        "title": "Light 1",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4254694\/173402301054458296383\/173402301054458296383_8296383.m3u8",
+        "thumbnail": "https:\/\/i.imghippo.com\/files\/oYe1506pZY.png",
+        "added_on": "2024-12-30 08:30 PM",
+        "type": "Video",
+        "duration": "01:31:16"
+    },
+    {
+        "title": "Light 2",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4255487\/173410951379678296383\/173410951379678296383_8296383.m3u8",
+        "thumbnail": "https:\/\/i.imghippo.com\/files\/BQm8127RDY.png",
+        "added_on": "2024-12-30 08:30 PM",
+        "type": "Video",
+        "duration": "01:31:16"
+    },
+    {
+        "title": "Doubt Solving Class",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4256105\/173419478364978296383\/173419478364978296383_8296383.m3u8",
+        "thumbnail": "https:\/\/i.imghippo.com\/files\/Uyhi7026Sqc.png",
+        "added_on": "2024-12-30 08:30 PM",
+        "type": "Video",
+        "duration": "-1:07:47"
+    },
+    {
+        "title": "Acid, Base And Salts",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4262636\/173454164634708296383\/173454164634708296383_8296383.m3u8",
+        "thumbnail": "https:\/\/i.imghippo.com\/files\/conM3724Ljk.png",
+        "added_on": "2024-12-30 08:30 PM",
+        "type": "Video",
+        "duration": "1:21:08"
+    },
+    {
+        "title": "Control and Coordination L1",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4263665\/173462783779448296383\/173462783779448296383_8296383.m3u8",
+        "thumbnail": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4265525\/173479976755458296383\/173479976755458296383_8296383.m3u8",
+        "added_on": "2024-12-30 08:30 PM",
+        "type": "Video",
+        "duration": "-1:25:51"
+    },
+    {
+        "title": "Control and Coordination L2",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4265525\/173479976755458296383\/173479976755458296383_8296383.m3u8",
+        "thumbnail": "https:\/\/i.imghippo.com\/files\/qMHU4419A.png",
+        "added_on": "2024-12-30 08:30 PM",
+        "type": "Video",
+        "duration": "1:00:03"
+    },
+    {
+        "title": "Metals and Non Metals 2",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4267956\/173514588477748296383\/173514588477748296383_8296383.m3u8",
+        "thumbnail": "https:\/\/i.imghippo.com\/files\/fywA5804eXg.png",
+        "added_on": "2024-12-30 08:30 PM",
+        "type": "Video",
+        "duration": "-1:20:41"
+    },
+    {
+        "title": "Metals and Non Metals 1",
+        "poster_url": "https:\/\/i.imghippo.com\/files\/fywA5804eXg.png",
+        "added_on": "30-Dec-2024 08:30 PM",
+        "type": "Video",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4267956\/173514588477748296383\/173514588477748296383_8296383.m3u8"
+    },
+    {
+        "title": "Electricity 1",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4268799\/173523205288808296383\/173523205288808296383_8296383.m3u8",
+        "thumbnail": "https:\/\/i.imghippo.com\/files\/fywA5804eXg.png",
+        "added_on": "2024-12-27 09:00 PM",
+        "type": "Video",
+        "duration": "-1:17:45"
+    },
+    {
+        "title": "Electricity L2",
+        "poster_url": "https:\/\/i.imghippo.com\/files\/WYxX9430cd.png",
+        "added_on": "30-Dec-2024 08:30 PM",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4270084\/173540638532658296383\/173540638532658296383_8296383.m3u8",
+        "type": "Video"
+    },
+    {
+        "title": "Human eye and colourful world",
+        "poster_url": "https:\/\/i.imghippo.com\/files\/kx5336Biw.png",
+        "added_on": "30-Dec-2024 08:30 PM",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4270256\/173549276764798296383\/173549276764798296383_8296383.m3u8",
+        "type": "Video"
+    },
+    {
+        "title": "How To Organisms Reproduce -L1",
+        "poster_url": "https:\/\/i.imghippo.com\/files\/mKV4632Uy.png",
+        "added_on": "30-Dec-2024 08:30 PM",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4272066\/173575152550008296383\/173575152550008296383_8296383.m3u8",
+        "type": "Video"
+    },
+    {
+        "title": "How To Organisms Reproduce -L2",
+        "poster_url": "https:\/\/i.imghippo.com\/files\/mKV4632Uy.png",
+        "added_on": "02-JAN-2025 08:30 PM",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4272759\/173583743715928296383\/173583743715928296383_8296383.m3u8",
+        "type": "Video"
+    },
+    {
+        "title": "Carbon and Its compound 1",
+        "poster_url": "https:\/\/i.imghippo.com\/files\/fod4176ZvM.png",
+        "added_on": "03-JAN-2025 08:30 PM",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4273638\/173592491096628296383\/173592491096628296383_8296383.m3u8",
+        "type": "Video"
+    },
+    {
+        "title": "Carbon And It's Compounds 2",
+        "poster_url": "https:\/\/alphanetwork.fun\/next-topper\/alphanetwork.jpg",
+        "added_on": "",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4274064\/173601032973618296383\/index_4.m3u8",
+        "type": "Video"
+    },
+    {
+        "title": "Carbon and Its Compound 2",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4274064\/173601032973618296383\/173601032973618296383_8296383.m3u8",
+        "thumbnail": "https:\/\/studybuddyofficial.vercel.app\/Triangles.png",
+        "added_on": "2025-01-04",
+        "type": "Video"
+    },
+    {
+        "title": "Doubt Solving Class",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4274297\/173609567488868296383\/173609567488868296383_8296383.m3u8",
+        "thumbnail": "https:\/\/studybuddyofficial.vercel.app\/Triangles.png",
+        "added_on": "2025-01-05",
+        "type": "Video"
+    },
+    {
+        "title": "Our Environment",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4277220\/173635622075408296383\/173635622075408296383_8296383.m3u8",
+        "thumbnail": "https:\/\/studybuddyofficial.vercel.app\/Triangles.png",
+        "added_on": "2025-01-20",
+        "type": "Video"
+    },
+    {
+        "title": "Heredity 1",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4278007\/173644262877098296383\/173644262877098296383_8296383.m3u8",
+        "thumbnail": "https:\/\/studybuddyofficial.vercel.app\/Triangles.png",
+        "added_on": "2025-01-20",
+        "type": "Video"
+    },
+    {
+        "title": "Heredity L2 + Doubts",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4279009\/173652841254688296383\/173652841254688296383_8296383.m3u8",
+        "thumbnail": "https:\/\/studybuddyofficial.vercel.app\/Triangles.png",
+        "added_on": "2025-01-20",
+        "type": "Video"
+    },
+    {
+        "title": "Magnetic Effect of Current",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4279908\/173669411663608296383\/173669411663608296383_8296383.m3u8",
+        "thumbnail": "https:\/\/studybuddyofficial.vercel.app\/Triangles.png",
+        "added_on": "2025-01-20",
+        "type": "Video"
+    }
+][
+    {
+        "title": "Real Numbers",
+        "link": "https:\/\/www.youtube.com\/watch?v=NRC-wPWLBlE",
+        "thumbnail": "Test",
+        "added_on": "2024-12-03",
+        "type": "Video"
+    },
+    {
+        "title": "Polynomials",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4251483\/173376362999381815381\/173376362999381815381_1815381.m3u8",
+        "thumbnail": "",
+        "added_on": "2024-12-09",
+        "type": "Video"
+    },
+    {
+        "title": "Pair Of Linear Equation in 2 Variables",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4252416\/173384903812598296383\/173384903812598296383_8296383.m3u8",
+        "thumbnail": "",
+        "added_on": "2024-12-10",
+        "type": "Video"
+    },
+    {
+        "title": "Doubt Class",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4255377\/173409684958091097666\/173409684958091097666_1097666.m3u8",
+        "thumbnail": "",
+        "added_on": "2024-11-13",
+        "type": "Video"
+    },
+    {
+        "title": "Quadratic Equation Complete",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4256065\/173418347822961097666\/173418347822961097666_1097666.m3u8",
+        "thumbnail": "",
+        "added_on": "2024-12-14",
+        "type": "Video"
+    },
+    {
+        "title": "AP Lecture 01",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4261095\/173436845496528296383\/173436845496528296383_8296383.m3u8",
+        "thumbnail": "",
+        "added_on": "2024-12-16",
+        "type": "Video"
+    },
+    {
+        "title": "Ap Lecture 02",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4264780\/173470208639291097666\/173470208639291097666_1097666.m3u8",
+        "thumbnail": "",
+        "added_on": "2024-12-20",
+        "type": "Video"
+    },
+    {
+        "title": "Triangles L1",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4265471\/173478728962341097666\/173478728962341097666_1097666.m3u8",
+        "thumbnail": "",
+        "added_on": "2024-11-21",
+        "type": "Video"
+    },
+    {
+        "title": "Triangles 2",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4266460\/173497383884211097666\/173497383884211097666_1097666.m3u8",
+        "thumbnail": "",
+        "added_on": "2024-12-23",
+        "type": "Video"
+    },
+    {
+        "title": "Triangles 3",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4267283\/173505946379421097666\/173505946379421097666_1097666.m3u8",
+        "thumbnail": "",
+        "added_on": "2024-12-24",
+        "type": "Video"
+    },
+    {
+        "title": "Trigonometry 01",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4269522\/173530593670251097666\/173530593670251097666_1097666.m3u8",
+        "thumbnail": "",
+        "added_on": "2024-12-27",
+        "type": "Video"
+    },
+    {
+        "title": "Trigonometry 02",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4270881\/173557927351208296383\/173557927351208296383_8296383.m3u8",
+        "thumbnail": "",
+        "added_on": "2024-12-30",
+        "type": "Video"
+    },
+    {
+        "title": "Trigo 3 + Coordinate Geo",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4271555\/173566254832118296383\/173566254832118296383_8296383.m3u8",
+        "thumbnail": "",
+        "added_on": "2024-12-31",
+        "type": "Video"
+    },
+    {
+        "title": "Coordinate geo Complete + Doubt Solving",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4273558\/173591079538391097666\/173591079538391097666_1097666.m3u8",
+        "thumbnail": "",
+        "added_on": "2025-01-03",
+        "type": "Video"
+    },
+    {
+        "title": "App Of Trigo Complete",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4274011\/173599655466951097666\/173599655466951097666_1097666.m3u8",
+        "thumbnail": "",
+        "added_on": "2025-01-04",
+        "type": "Video"
+    },
+    {
+        "title": "Circles 1",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4275218\/173618267231918296383\/173618267231918296383_8296383.m3u8",
+        "thumbnail": "",
+        "added_on": "2025-01-06",
+        "type": "Video"
+    },
+    {
+        "title": "Circles 2",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4276282\/173626901232738296383\/173626901232738296383_8296383.m3u8",
+        "thumbnail": "",
+        "added_on": "2025-01-07",
+        "type": "Video"
+    },
+    {
+        "title": "Area Rel to Circle Complete",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4278934\/173651542956061097666\/173651542956061097666_1097666.m3u8",
+        "thumbnail": "",
+        "added_on": "2025-01-10",
+        "type": "Video"
+    },
+    {
+        "title": "Doubt Solving Class",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4279689\/173660100838151097666\/173660100838151097666_1097666.m3u8",
+        "thumbnail": "",
+        "added_on": "2025-01-11",
+        "type": "Video"
+    },
+    {
+        "title": "Surface Area and Vol 01",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4281322\/173687534281188296383\/173687534281188296383_8296383.m3u8",
+        "thumbnail": "",
+        "added_on": "2025-01-16",
+        "type": "Video"
+    },
+    {
+        "title": "Statistics",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4282142\/173696092067378296383\/173696092067378296383_8296383.m3u8",
+        "thumbnail": "",
+        "added_on": "2025-01-16",
+        "type": "Video"
+    },
+    {
+        "title": "Probability Complete",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4283192\/173704645359348296383\/173704645359348296383_8296383.m3u8",
+        "thumbnail": "",
+        "added_on": "2025-01-20",
+        "type": "Video"
+    },
+    {
+        "title": "Sample Paper Discussion 1",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4284288\/173712790984178296383\/173712790984178296383_8296383.m3u8",
+        "thumbnail": "",
+        "added_on": "2025-01-20",
+        "type": "Video"
+    }
+][
+    {
+        "id": "464967004",
+        "title": "Agriculture",
+        "duration": "-1:21:56",
+        "type": "Video",
+        "start_date_time": "02-JAN-2025 08:30 PM",
+        "poster_url": "https:\/\/i.imghippo.com\/files\/BaA8468lsQ.png",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4272708\/173582507294081097666\/173582507294081097666_1097666.m3u8"
+    },
+    {
+        "id": "675662186",
+        "title": "Doubt Solving Class",
+        "duration": "1:10:31",
+        "type": "Video",
+        "start_date_time": "30-Dec-2024 08:30 PM",
+        "poster_url": "https:\/\/i.imghippo.com\/files\/sIrq9912yU.png",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4272033\/173573726499381097666\/173573726499381097666_1097666.m3u8"
+    },
+    {
+        "id": "171931942",
+        "title": "Political Parties",
+        "duration": "-1:17:44",
+        "type": "Video",
+        "start_date_time": "30-Dec-2024 08:30 PM",
+        "poster_url": "https:\/\/i.imghippo.com\/files\/fZV6027cdc.png",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4271516\/173565281077511097666\/173565281077511097666_1097666.m3u8"
+    },
+    {
+        "id": "593824890",
+        "title": "The Making Of Golbal World & Globalization And The Indian Economy",
+        "type": "Video",
+        "duration": "-1:34:36",
+        "start_date_time": "30-Dec-2024 08:30 PM",
+        "poster_url": "https:\/\/i.imghippo.com\/files\/Gwm1325Ph.png",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4270813\/173556604344381097666\/173556604344381097666_1097666.m3u8"
+    },
+    {
+        "id": "484190960",
+        "title": "Water Resources",
+        "duration": "-1:24:38",
+        "type": "Video",
+        "start_date_time": "30-Dec-2024 08:30 PM",
+        "poster_url": "https:\/\/i.imghippo.com\/files\/RGVg1311sU.png",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4268740\/173522019765341097666\/173522019765341097666_1097666.m3u8"
+    },
+    {
+        "id": "855302784",
+        "title": "Gender Religion And Caste",
+        "duration": "1:34:07",
+        "type": "Video",
+        "start_date_time": "30-Dec-2024 08:30 PM",
+        "poster_url": "https:\/\/i.imghippo.com\/files\/to7781fKE.png",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4267887\/173513405978101097666\/173513405978101097666_1097666.m3u8"
+    },
+    {
+        "id": "787498935",
+        "title": "Money And Credit",
+        "duration": "-1:37:26",
+        "type": "Video",
+        "start_date_time": "30-Dec-2024 08:30 PM",
+        "poster_url": "https:\/\/i.imghippo.com\/files\/m4219io.png",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4267208\/173504796633348296383\/173504796633348296383_8296383.m3u8"
+    },
+    {
+        "title": "Doubt Solving Class",
+        "posterUrl": "https:\/\/i.imghippo.com\/files\/pcM2779WM.png",
+        "id": "595406940",
+        "duration": "-1:12:58",
+        "startDate": "27-Dec-2024 05:00 PM",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4266360\/173496005164118296383\/173496005164118296383_8296383.m3u8",
+        "type": "Video"
+    },
+    {
+        "title": "Nationalism In India - L2",
+        "posterUrl": "https:\/\/i.imghippo.com\/files\/gix1239XMg.png",
+        "id": "695731495",
+        "duration": "1:16:39",
+        "startDate": "30-Dec-2024 08:30 PM",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4262546\/173452946639681097666\/173452946639681097666_1097666.m3u8",
+        "type": "Video"
+    },
+    {
+        "title": "Nationalism In India",
+        "posterUrl": "https:\/\/i.imghippo.com\/files\/xHkt1955gI.png",
+        "id": "666204182",
+        "duration": "1:16:39",
+        "startDate": "30-Dec-2024 08:30 PM",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4262546\/173452946639681097666\/173452946639681097666_1097666.m3u8",
+        "type": "Video"
+    },
+    {
+        "title": "Forest And Wildlife Resources",
+        "posterUrl": "https:\/\/i.imghippo.com\/files\/wBDV1486TcQ.png",
+        "id": "581442023",
+        "duration": "1:18:07",
+        "startDate": "30-Dec-2024 08:30 PM",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4261757\/173444257421308296383\/173444257421308296383_8296383.m3u8",
+        "type": "Video"
+    },
+    {
+        "title": "Federalism",
+        "posterUrl": "https:\/\/i.imghippo.com\/files\/jvee7178XgU.png",
+        "id": "869164819",
+        "duration": "1:21:06",
+        "startDate": "30-Dec-2024 08:30 PM",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4257475\/173435570624611097666\/173435570624611097666_1097666.m3u8",
+        "type": "Video"
+    },
+    {
+        "title": "Sectors Of Indian Economy",
+        "posterUrl": "https:\/\/i.imghippo.com\/files\/gScw2475zPM.png",
+        "id": "895223148",
+        "duration": "1:35:37",
+        "startDate": "30-Dec-2024 05:00 PM",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4254617\/173401145393021097666\/173401145393021097666_1097666.m3u8",
+        "type": "Video"
+    },
+    {
+        "title": "Doubt Solving Class",
+        "posterUrl": "https:\/\/i.imghippo.com\/files\/sIrq9912yU.png",
+        "id": "68427386",
+        "duration": "1:05:59",
+        "startDate": "30-Dec-2024 08:30 PM",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4253520\/173392314165591097666\/173392314165591097666_1097666.m3u8",
+        "type": "Video"
+    },
+    {
+        "title": "The Rise Of Nationalism in Europe",
+        "posterUrl": "https:\/\/i.imghippo.com\/files\/nPBj6234xQ.png",
+        "id": "656274442",
+        "duration": "1:35:56",
+        "startDate": "30-Dec-2024 08:30 PM",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4252320\/173383668270021097666\/173383668270021097666_1097666.m3u8",
+        "type": "Video"
+    },
+    {
+        "title": "Resource And Development | L-02",
+        "posterUrl": "https:\/\/i.imghippo.com\/files\/LRoM1840DOU.png",
+        "id": "228792827",
+        "duration": "1:31:25",
+        "startDate": "30-Dec-2024 08:30 PM",
+        "link": "https:\/\/d3cx6qbbd4cbso.cloudfront.net\/file_library\/videos\/vod_non_drm_ios\/4251457\/1733755752_6661695992518788\/13027202.m3u8",
+        "type": "Video"
+    },
+    {
+        "title": "Power Sharing | L-01 | Introduction",
+        "posterUrl": "https:\/\/cf-images.ap-southeast-1.prod.boltdns.net\/v1\/jit\/6415636611001\/bf4c76d2-8a20-4e78-a37a-540ef658bbfd\/main\/160x90\/5s\/match\/image.jpg",
+        "id": "917",
+        "duration": "01:58:46",
+        "startDate": "04-Dec-2024 18:15",
+        "link": "https:\/\/d3cx6qbbd4cbso.cloudfront.net\/file_library\/videos\/vod_non_drm_ios\/4251449\/1733760365_9732938186840908\/sunny\/1733754877833_492530338832128600_video_VOD240p30.m3u8",
+        "type": "Video"
+    },
+    {
+        "title": "Print Culture and the Modern World 01",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4275143\/173617023050461097666\/173617023050461097666_1097666.m3u8",
+        "thumbnail": "",
+        "added_on": "2025-01-06",
+        "type": "Video"
+    },
+    {
+        "title": "Print Culture and the Modern World 02",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4276227\/173625718154331097666\/173625718154331097666_1097666.m3u8",
+        "thumbnail": "",
+        "added_on": "2025-01-12",
+        "type": "Video"
+    },
+    {
+        "title": "Outcomes of Democracy",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4277163\/173634378667551097666\/173634378667551097666_1097666.m3u8",
+        "thumbnail": "",
+        "added_on": "2025-01-08",
+        "type": "Video"
+    },
+    {
+        "title": "Minerals and Energy Resources",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4277953\/173643003676811097666\/173643003676811097666_1097666.m3u8",
+        "thumbnail": "",
+        "added_on": "2025-01-20",
+        "type": "Video"
+    },
+    {
+        "title": "Doubt Solving Class",
+        "link": "https:\/\/d1qcficr3lu37x.cloudfront.net\/file_library\/videos\/channel_vod_non_drm_hls\/4281273\/173686022050777880624\/173686022050777880624_7880624.m3u8",
+        "thumbnail": "",
+        "added_on": "2025-01-20",
+        "type": "Video"
+    }
+]
